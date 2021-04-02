@@ -1,2 +1,3 @@
-# Machine_Learning_Coursera_stanford
-Programming Assignments for Machine learning Stanford(Coursera) by Andrew N G
+# Machine Learning Coursera (Stanford)
+
+This contains the solution to all the programming assignments of the online course Machine Learning (Corsera) taught by Prof. Andrew Ng.
